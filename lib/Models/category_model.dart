@@ -5,8 +5,11 @@ class CategoryModel {
   String iconPath;
   Color boxColor;
 
-  CategoryModel(
-      {required this.name, required this.iconPath, required this.boxColor});
+  CategoryModel({
+    required this.name,
+    required this.iconPath,
+    required this.boxColor,
+  });
 
   static List<CategoryModel> getCategories() {
     List<CategoryModel> categories = [];

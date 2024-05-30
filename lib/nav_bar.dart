@@ -21,7 +21,7 @@ class _BottomNavigationBarExampleState
       style: optionStyle,
     ),
     const Text(
-      'Index 2: School',
+      'Index 2: Gyms',
       style: optionStyle,
     ),
   ];
@@ -49,8 +49,8 @@ class _BottomNavigationBarExampleState
             label: 'Business',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.school),
-            label: 'School',
+            icon: Icon(Icons.sports_gymnastics_rounded),
+            label: 'Gyms',
           ),
         ],
         currentIndex: _selectedIndex,

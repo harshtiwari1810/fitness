@@ -1,3 +1,5 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:fitness/Models/category_model.dart';
 import 'package:fitness/Models/diet_model.dart';
 import 'package:fitness/Models/popular_model.dart';

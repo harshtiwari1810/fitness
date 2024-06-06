@@ -352,7 +352,6 @@ class HomePage extends StatelessWidget {
       //     ),
       //   ),
       // ),
-
       actions: [
         GestureDetector(
           onTap: () {

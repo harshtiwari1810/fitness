@@ -38,6 +38,7 @@ class HomePage extends StatelessWidget {
     );
   }
 
+//too  many dead commits
   Column popularSection() {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
